@@ -2,7 +2,9 @@
 title: "Website"
 author: "Elena Davydova"
 date: "3/6/2019"
-output: html_document
+output:
+  html_document:
+      theme: spacelab
 ---
 ## About
 Data science student
